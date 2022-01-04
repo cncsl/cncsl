@@ -6,5 +6,5 @@
 
 # My Repos
 
-- [江苏科技大学 Android 课设代码](https://github.com/cncsl/LearnAndroid)
-- [江苏科技大学毕业设计爬虫](https://github.com/cncsl/bysjspider)
+- [Java 基础学习总结](https://github.com/cncsl/JavaTutorials)
+- [Java 后端开发常用框架学习总结](https://github.com/cncsl/FrameworkTutorials)
