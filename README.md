@@ -6,5 +6,4 @@
 
 # My Repos
 
-- [Java 基础学习总结](https://github.com/cncsl/JavaTutorials)
 - [Java 后端开发常用框架学习总结](https://github.com/cncsl/FrameworkTutorials)
