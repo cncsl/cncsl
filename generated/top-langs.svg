@@ -126,21 +126,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 86.40%
+        Java 87.89%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 9.96%
+        Lua 8.42%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 3.63%
+        Shell 3.70%
       </text>
     </g>
   </g>
@@ -151,8 +151,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="86.41"
-          d="M 73.94914107664968 79.4332929466107 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="87.88"
+          d="M 77.56531289856194 75.65209310296089 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#b07219"
           fill="none"
           stroke-width="12">
@@ -162,8 +162,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="9.96"
-          d="M 103.85391959204765 61.46753059088236 A 56.66666666666667 56.66666666666667 0 0 0 73.94914107664968 79.4332929466107"
+          size="8.42"
+          d="M 103.61126582165987 61.52441771101282 A 56.66666666666667 56.66666666666667 0 0 0 77.56531289856194 75.65209310296089"
           stroke="#000080"
           fill="none"
           stroke-width="12">
@@ -173,8 +173,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="3.63"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 103.85391959204765 61.46753059088236"
+          size="3.7"
+          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 103.61126582165987 61.52441771101282"
           stroke="#89e051"
           fill="none"
           stroke-width="12">
